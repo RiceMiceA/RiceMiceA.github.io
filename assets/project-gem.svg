@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+  <title id="title">GEM model project illustration</title>
+  <desc id="desc">A small autonomous vehicle following a planned path.</desc>
+  <rect width="960" height="600" rx="44" fill="#f7f0e7"/>
+  <path d="M80 440c150-130 280-150 430-60 135 80 230 58 370-90" fill="none" stroke="#a14f2a" stroke-width="12" stroke-linecap="round" stroke-dasharray="22 22"/>
+  <path d="M90 505h780" stroke="#d7c6b4" stroke-width="8" stroke-linecap="round"/>
+  <g transform="translate(345 250) rotate(-8)">
+    <rect x="0" y="65" width="260" height="112" rx="30" fill="#191714"/>
+    <rect x="52" y="12" width="134" height="82" rx="22" fill="#fffaf2" stroke="#191714" stroke-width="10"/>
+    <circle cx="64" cy="188" r="34" fill="#fffaf2" stroke="#191714" stroke-width="10"/>
+    <circle cx="202" cy="188" r="34" fill="#fffaf2" stroke="#191714" stroke-width="10"/>
+    <path d="M84 110h120" stroke="#a14f2a" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <text x="88" y="112" fill="#191714" font-family="monospace" font-size="42" font-weight="800">GEM / ROS</text>
+  <text x="88" y="160" fill="#6c6258" font-family="monospace" font-size="30" font-weight="800">modeling + planning</text>
+</svg>

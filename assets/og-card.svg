@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Zikun Tony Liu portfolio card</title>
+  <desc id="desc">Open graph card for the robotics and engineering portfolio.</desc>
+  <rect width="1200" height="630" fill="#f7f0e7"/>
+  <circle cx="1020" cy="110" r="190" fill="#efd8c6"/>
+  <path d="M90 510h1020" stroke="#d7c6b4" stroke-width="8"/>
+  <text x="90" y="180" fill="#a14f2a" font-family="monospace" font-size="34" font-weight="800">ROBOTICS & ENGINEERING</text>
+  <text x="90" y="300" fill="#191714" font-family="Arial, sans-serif" font-size="86" font-weight="900">Zikun (Tony) Liu</text>
+  <text x="90" y="390" fill="#6c6258" font-family="Arial, sans-serif" font-size="48" font-weight="700">Motion planning, ROS, embedded systems, interfaces</text>
+  <path d="M835 438h130M900 438v-100M900 338l-95-82M805 256l138-30M943 226l70 10" fill="none" stroke="#191714" stroke-width="28" stroke-linecap="round"/>
+  <circle cx="900" cy="338" r="28" fill="#a14f2a"/>
+  <circle cx="805" cy="256" r="28" fill="#a14f2a"/>
+</svg>
