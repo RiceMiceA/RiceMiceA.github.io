@@ -1,41 +1,27 @@
-# RiceMiceA.github.io
+# Zikun (Tony) Liu personal website
 
-A static GitHub Pages portfolio for Zikun (Tony) Liu, focused on robotics, embedded systems, controls, motion planning, and engineering build logs.
+A clean GitHub Pages portfolio for robotics, embedded systems, autonomy, and engineering build logs.
 
-## Files
+## Publish
 
-- `index.html` - main one-page portfolio
-- `styles.css` - responsive visual system with light/dark theme
-- `script.js` - theme toggle, project filters, footer year
-- `assets/` - lightweight custom SVG illustrations
-- `.nojekyll` - tells GitHub Pages to serve this as plain static HTML
-- `404.html`, `robots.txt`, `sitemap.xml` - basic site support files
-
-## Publish to GitHub Pages
+Copy these files into the root of `RiceMiceA.github.io`, then commit and push:
 
 ```bash
-git clone https://github.com/RiceMiceA/RiceMiceA.github.io.git
-cd RiceMiceA.github.io
-# Copy these generated files into the repo root, replacing the old index.html.
 git add .
-git commit -m "Build robotics portfolio homepage"
+git commit -m "Redesign personal robotics portfolio"
 git push origin main
 ```
 
-GitHub Pages should then serve the site at:
+## What changed from the first draft
 
-```text
-https://ricemicea.github.io/
-```
+- Removed the busy grid background, project illustrations, dark-mode toggle, and filter UI.
+- Switched to a calmer editorial/project-archive layout inspired by engineering notebooks.
+- Kept the content focused on project posts and your robotics/embedded journey.
+- Avoided claiming details that are not visible from public GitHub/LinkedIn access.
 
-## Customization checklist
+## Suggested next edits
 
-1. Replace the SVG illustrations with real project photos or demo GIFs when available.
-2. Add more specific results for each project: hardware photos, test videos, lessons learned, and links to reports.
-3. Create individual project pages later if the one-page layout gets too dense.
-4. Update the hero paragraph when your current research or internship focus changes.
-5. Add a PDF resume link if you want recruiters to download a resume directly.
-
-## Content notes
-
-The project descriptions were drafted from public GitHub repository names and README snippets, plus the LinkedIn URL supplied by the site owner. The LinkedIn profile itself may not be accessible to unauthenticated crawlers, so update the copy with any details you want from LinkedIn before publishing.
+- Add a real email address or remove the contact paragraph if you want contact to stay LinkedIn-only.
+- Add project photos or GIFs when you have them.
+- Add a `resume.pdf` link when your resume is ready.
+- Convert each project into its own page as the build logs get longer.
